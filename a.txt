@@ -1,2 +1,3 @@
 test of input a.txt content
 append second line
+3rd line
