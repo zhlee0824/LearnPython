@@ -3,6 +3,7 @@ import subprocess
 
 print("Louis Test")
 print("test git branch")
+print("modify after checkout branch")
 '''
 #result = os.system("adb devices")
 testInt = 7
