@@ -4,6 +4,7 @@ import subprocess
 print("Louis Test")
 print("test git branch")
 print("modify after checkout branch")
+print("this test of merge")
 '''
 #result = os.system("adb devices")
 testInt = 7
