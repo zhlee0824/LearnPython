@@ -2,6 +2,7 @@ import os
 import subprocess
 
 print("Louis Test")
+print("test git branch")
 '''
 #result = os.system("adb devices")
 testInt = 7
